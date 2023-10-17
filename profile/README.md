@@ -5,7 +5,7 @@
 </p>
 
 
-[Decskill Manual](https://www.google.com](https://github.com/decskill-boost/decskill/blob/main/README.md "Decskill's Manual")
+[Decskill Manual](https://github.com/decskill-boost/decskill/blob/main/README.md)
 
 
 --------------------------------------------------------------------------------------
