@@ -11,5 +11,4 @@ Organizações que procuram:
 
 Melhorar os seus processos de desenvolvimento de software;
 Aumentar a eficiência e otimizar os processos e produtividade em diversas áreas tecnológicas
-![Alt text](image-1.png)
-![Alt text](image.png)
+![Alt text](https://github.com/decskill-boost/.github/blob/main/profile/image-1.png)
