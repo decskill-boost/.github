@@ -7,10 +7,17 @@
 
 [Decskill Manual](https://github.com/decskill-boost/decskill/blob/main/README.md)
 
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+
+Topics:
+🔵 [Decskill Manual](https://github.com/decskill-boost/decskill/blob/main/README.md)
+🔵 [Decskill Manual](https://github.com/decskill-boost/decskill/blob/main/README.md)
+🔵 [Decskill Manual](https://github.com/decskill-boost/decskill/blob/main/README.md)
 
 
 --------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------
+
 ![Alt text](https://github.com/decskill-boost/.github/blob/main/profile/image-1.png)
 
 --------------------------------------------------------------------------------------
