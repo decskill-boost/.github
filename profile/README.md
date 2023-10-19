@@ -8,9 +8,11 @@
 --------------------------------------------------------------------------------------
 
 ## Topics:
--  [Decskill Manual](https://github.com/decskill-boost/decskill/blob/main/README.md) 📖
--  [Decskill Manual](https://github.com/decskill-boost/decskill/blob/main/README.md) ☁️
--  [Decskill Manual](https://github.com/decskill-boost/decskill/blob/main/README.md) 🏗️
+-  [Good Practices Manual](https://github.com/decskill-boost/decskill/blob/main/README.md) 📖
+-  [Cloud Manual](https://github.com/decskill-boost/decskill/blob/main/README.md) ☁️
+-  [Version Control Manual](https://github.com/decskill-boost/decskill/blob/main/README.md) 🏗️
+-  [QA Manual](https://github.com/decskill-boost/decskill/blob/main/README.md) 🏗️
+-  [Learning Roadmap](https://github.com/decskill-boost/decskill/blob/main/README.md) 🏗️
 
 
 --------------------------------------------------------------------------------------
