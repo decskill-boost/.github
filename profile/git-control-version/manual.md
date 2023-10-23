@@ -1,4 +1,10 @@
 
+
+<p align="center">
+<img src="https://github.com/decskill-boost/.github/assets/78824435/734ec73d-a685-4264-bbd3-ede08a1e042e" width="350">
+</p>
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
@@ -40,6 +46,8 @@ A commit represents a snapshot of your project at a particular point in time. Co
 ### Branch
 
 Branches in Git allow you to work on different features, bug fixes, or experiments independently. The main branch is typically named `main` or `master`.
+![image](https://github.com/decskill-boost/.github/assets/78824435/930e288c-6f73-4677-9c7a-8d228af5f88a)
+
 
 ### Remote
 
@@ -59,6 +67,7 @@ Here are some essential Git commands:
 - `git checkout <branch>`: Switch to a different branch.
 - `git pull`: Fetch changes from a remote repository.
 - `git push`: Push your changes to a remote repository.
+- `git merge <branch-name>`: after resolving merge conflicts the command blends selected branch into the current branch.
 
 ## Branch Naming Standards
 
@@ -71,6 +80,8 @@ Adhering to consistent branch naming standards can help keep your Git repository
 - `release/version-number`: For release preparations.
 - `chore/task-name`: For miscellaneous tasks.
 
+![gitworkflow](https://github.com/decskill-boost/.github/assets/78824435/646c8a6a-05a2-4302-868f-c43df02585a4)
+
 ## Workflow
 
 1. Create a new branch for your work using `git checkout -b branch-name`.
@@ -79,6 +90,9 @@ Adhering to consistent branch naming standards can help keep your Git repository
 4. Once the PR is approved, merge it into the main branch.
 5. Delete the feature branch (if it's no longer needed).
 6. Periodically update your local repository with changes from the main branch using `git pull`.
+
+
+
 
 ## Collaboration
 
