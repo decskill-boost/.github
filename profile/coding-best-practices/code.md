@@ -1,5 +1,9 @@
 # Best Practices and Naming Conventions in Programming
 
+![image](https://github.com/decskill-boost/.github/assets/78824435/01e04963-a5b9-46b0-a531-1e1659fd74ec)
+
+
+
 This repository provides an extensive guide to best practices in programming, naming conventions for code and databases, and coding standards for popular programming languages and frameworks. Additionally, we'll delve deeper into each topic and discuss some essential design patterns for the mentioned technologies.
 
 ## General Best Practices
