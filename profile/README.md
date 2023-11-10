@@ -7,7 +7,7 @@
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
 
-#### Decskill Resources (Only available for the internal members of Decskill)  👨🏻‍💻 - [Docs](https://github.com/decskill-boost/decskill/blob/main/README.md) 📖
+#### Decskill Resources - Only available for the internal members of Decskill  👨🏻‍💻 - [Docs](https://github.com/decskill-boost/decskill/blob/main/README.md) 📖
 
 
 --------------------------------------------------------------------------------------
