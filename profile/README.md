@@ -7,12 +7,9 @@
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
 
-## Topics:
--  [Good Practices Manual](https://github.com/decskill-boost/decskill/blob/main/README.md) 📖
--  [Cloud Manual](https://github.com/decskill-boost/decskill/blob/main/README.md) ☁️
--  [Version Control Manual](https://github.com/decskill-boost/decskill/blob/main/README.md) 🏗️
--  [QA Manual](https://github.com/decskill-boost/decskill/blob/main/README.md) 🏗️
--  [Learning Roadmap](https://github.com/decskill-boost/decskill/blob/main/README.md) 🏗️
+
+
+#### Decskill Resources [Only available for the internal members of Decskill]  👨🏻‍💻 - [Docs](https://github.com/decskill-boost/decskill/blob/main/README.md) 📖
 
 
 --------------------------------------------------------------------------------------
