@@ -73,4 +73,22 @@
    - Changes made during the development cycle have been documented.
 
 Ensure that these rules are adapted based on the specific needs of your project, utilized technologies, and development practices. Ensure that all stakeholders are aware of the established rules and processes to ensure a smooth transition between different stages of the software development lifecycle.
+
+
+# Steps to Ensure
+
+1. Ensure the existence of segregated environments (DEV, QUA, PRD).
+2. New feature developments should follow the scheme mentioned in [GitHub Guidelines](https://github.com/decskill-boost/decskill/blob/main/resources/git-control-version/manual.md).
+3. All merges for transitioning between environments must be approved by the Tech Lead of the team, especially from the QA -> PRD environment, to ensure that all changes do not introduce vulnerabilities and impact.
+4. Pull requests must always have someone from the team to review and cannot be self-approved.
+5. If possible, code analysis tools should be integrated to ensure the security of the application being developed, such as SonarQube.
+6. All developments, before going to the PRD branch, must go through the QA team tests and be accepted, if possible, by the Business Analysts.
+
+---
+
+**Note:** Customize these steps based on your project's specific requirements, and ensure all team members are familiar with and adhere to these guidelines for a smooth development and deployment process.
+
+
+
+
 ```
